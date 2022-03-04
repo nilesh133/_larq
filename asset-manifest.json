@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/_larq/static/css/main.6eea9fba.css",
+    "main.js": "/_larq/static/js/main.6727dea7.js",
+    "static/js/787.5051ea8a.chunk.js": "/_larq/static/js/787.5051ea8a.chunk.js",
+    "static/media/Right.png": "/_larq/static/media/Right.764bd29a76736298d5bb.png",
+    "static/media/bottle.png": "/_larq/static/media/bottle.b7367901b0fccc4e1c64.png",
+    "static/media/cap.png": "/_larq/static/media/cap.b9312010398edcd60461.png",
+    "index.html": "/_larq/index.html",
+    "main.6eea9fba.css.map": "/_larq/static/css/main.6eea9fba.css.map",
+    "main.6727dea7.js.map": "/_larq/static/js/main.6727dea7.js.map",
+    "787.5051ea8a.chunk.js.map": "/_larq/static/js/787.5051ea8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eea9fba.css",
+    "static/js/main.6727dea7.js"
+  ]
+}
